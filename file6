@@ -1,1 +1,1 @@
-find -name "tmp*"
+find / -name "tmp*"
