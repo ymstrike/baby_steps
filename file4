@@ -1,0 +1,5 @@
+lname=Matityahu
+ID=058726811
+DOB=26/07/1964
+COB=ISRAEL
+echo "lname=" $lname;echo  "DOB=" $DOB;echo "COB=" $COB;

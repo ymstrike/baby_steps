@@ -1,0 +1,3 @@
+name=Yuval
+sleep 4
+echo $name
