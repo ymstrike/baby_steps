@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 echo "SUDO_USER="$SUDO_USER;
 echo "SUDO_UID="$SUDO_UID;
 echo "HOSTTYPE="$HOSTTYPE;
@@ -23,3 +24,6 @@ echo "XAUTHORITY="$XAUTHORITY
 echo "COLORTERM="$COLORTERM
 echo "USERNAME="$USERNAME;
 
+=======
+declare -x
+>>>>>>> 6cdb499f93710f47966e60d7d5c24245d1cea6b7
